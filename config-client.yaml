@@ -3,7 +3,7 @@ spring:
     active: dev
 ---
 server:
-  port:8201
+  port: 8201
 # spring的相关配置
 spring:
   profiles: dev
